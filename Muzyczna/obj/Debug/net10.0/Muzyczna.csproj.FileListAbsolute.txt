@@ -1,0 +1,14 @@
+/home/jurekg/RiderProjects/Muzyczna/Muzyczna/obj/Debug/net10.0/Muzyczna.GeneratedMSBuildEditorConfig.editorconfig
+/home/jurekg/RiderProjects/Muzyczna/Muzyczna/obj/Debug/net10.0/Muzyczna.AssemblyInfoInputs.cache
+/home/jurekg/RiderProjects/Muzyczna/Muzyczna/obj/Debug/net10.0/Muzyczna.AssemblyInfo.cs
+/home/jurekg/RiderProjects/Muzyczna/Muzyczna/obj/Debug/net10.0/Muzyczna.csproj.CoreCompileInputs.cache
+/home/jurekg/RiderProjects/Muzyczna/Muzyczna/bin/Debug/net10.0/Muzyczna
+/home/jurekg/RiderProjects/Muzyczna/Muzyczna/bin/Debug/net10.0/Muzyczna.deps.json
+/home/jurekg/RiderProjects/Muzyczna/Muzyczna/bin/Debug/net10.0/Muzyczna.runtimeconfig.json
+/home/jurekg/RiderProjects/Muzyczna/Muzyczna/bin/Debug/net10.0/Muzyczna.dll
+/home/jurekg/RiderProjects/Muzyczna/Muzyczna/bin/Debug/net10.0/Muzyczna.pdb
+/home/jurekg/RiderProjects/Muzyczna/Muzyczna/obj/Debug/net10.0/Muzyczna.dll
+/home/jurekg/RiderProjects/Muzyczna/Muzyczna/obj/Debug/net10.0/refint/Muzyczna.dll
+/home/jurekg/RiderProjects/Muzyczna/Muzyczna/obj/Debug/net10.0/Muzyczna.pdb
+/home/jurekg/RiderProjects/Muzyczna/Muzyczna/obj/Debug/net10.0/Muzyczna.genruntimeconfig.cache
+/home/jurekg/RiderProjects/Muzyczna/Muzyczna/obj/Debug/net10.0/ref/Muzyczna.dll
